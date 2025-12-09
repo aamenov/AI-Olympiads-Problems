@@ -74,7 +74,7 @@ https://www.kaggle.com/competitions/lost-in-the-museum-v2
 ### AI Olymp — Qualification Round  
 https://contest.yandex.ru/contest/76971/enter
 
-### AI Olymp — Medical Classification  
+### AI Olymp — Radiogram Matching  
 https://www.kaggle.com/competitions/problem-3-republic-olymp-tst-homework
 
 ### AI Olymp — Paper Earlier  
@@ -83,7 +83,7 @@ https://www.kaggle.com/competitions/kazakhstan-respa-final-day-2-late-competitio
 ### AI Olymp — MNIST Rotation  
 https://www.kaggle.com/competitions/mnist-rotation
 
-### AI Olymp — Corgi Classification  
+### AI Olymp — Corgi in the Garden  
 https://www.kaggle.com/competitions/ai-olympiad-nationals-2025-task-1-corgi
 
 ### AI Olymp — Take-Home Homework  
